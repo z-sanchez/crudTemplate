@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <p>
           Edit <code>sr/pajamas</code>
-          wht suck going on taad.
+           I am shook.
         </p>
         <a
           className="App-link"

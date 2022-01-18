@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const mysql = require("mysql");
 const bodyParser = require("body-parser"); //parses body for api data sent
-const cors = require("cors"); //fixes errors with axios api sending stugg
+const cors = require("cors"); //fixes errors with axios api sending
 
 app.use(cors()); //uses cors
 app.use(express.json()); //uses express to interpret json data from api
@@ -13,7 +13,8 @@ const db = mysql.createConnection({
   host: "localhost",
   user: "newUser",
   password: "password",
-  database: "masterlist",
+  database: "masterlist", //need to create database using XAMMP and
+                          // allow settings access for host and user
 });
 
 
