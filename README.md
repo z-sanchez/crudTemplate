@@ -6,7 +6,7 @@ prettier, eslint, babel file watcher, node, sass, sql, and express to work in Ph
 
 To help, some obvious but helpful for learning, comments are scattered about the code.
 
-Walkthrough for me to get running:
+Walk through for me to get running:
 
 1. Pull repository 
 2. npm install inside template, server, and client
@@ -16,5 +16,8 @@ Walkthrough for me to get running:
 5. run 
 - CD into client and "npm start"
 - CD into server (with server running) and "npm run devStart"
+
+File Structure:
+
 
 should run a react application
