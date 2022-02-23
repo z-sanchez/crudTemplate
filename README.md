@@ -17,7 +17,33 @@ Walk through for me to get running:
 - CD into client and "npm start"
 - CD into server (with server running) and "npm run devStart"
 
-File Structure:
+src File Structure:
 
+'''
+src
+├───Assets
+│   ├───Images
+│   └───Styles
+├───Components
+├───Config
+├───Layouts
+│   ├───Aside
+│   ├───Footer
+│   ├───Header
+│   └───Main
+├───Middleware
+├───Pages
+├───Routes
+└───Services
+    ├───Actions
+    ├───Constants
+    ├───Reducers
+    └───Utils
+
+
+
+
+
+'''
 
 should run a react application
