@@ -19,7 +19,7 @@ Walk through for me to get running:
 
 src File Structure:
 
-'''
+'
 src
 ├───Assets
 │   ├───Images
@@ -39,11 +39,6 @@ src
     ├───Constants
     ├───Reducers
     └───Utils
-
-
-
-
-
-'''
+'
 
 should run a react application
